@@ -1,0 +1,6 @@
+{
+    "sustainability": [
+        {"id": 1, "topic": "Renewable Energy", "details": "Focus on solar and wind power."},
+        {"id": 2, "topic": "Waste Management", "details": "Innovative recycling techniques."}
+    ]
+}
